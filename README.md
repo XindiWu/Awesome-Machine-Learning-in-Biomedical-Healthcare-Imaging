@@ -27,6 +27,19 @@ If you also want to contribute to this list, feel free to send me a pull request
 
 [2019 ISBI : The IEEE International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2019/)
 
+## Journal Collections
+
+[BMC: Artificial intelligence in biomedical imaging](https://www.biomedcentral.com/collections/ai)
+
+[JAMA: Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
+
+[PLOS: Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth)
+
+[Nature Medicine: Digital Medicine](https://www.nature.com/collections/egjifhdcih)
+
+[IEEE: Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6221020)
+
+
 ## Latest Paper List on Nature
 
 
