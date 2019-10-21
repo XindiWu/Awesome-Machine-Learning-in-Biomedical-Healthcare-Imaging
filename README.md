@@ -29,8 +29,7 @@ Cornell University: [Computer Analysis of Biomedical Images]
 
 Dartmouth College: [Medical Image Visualization and Analysis](https://engineering.dartmouth.edu/academics/courses/engg199-03)
 
-UCLA: [Signal and Image Processing for Biomedicine](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?
-term_cd=16W&subj_area_cd=PBMED%20%20&crs_catlg_no=0209%20%20%20%20&class_id=825054200&class_no=%20001%20%20)
+UCLA: [Signal and Image Processing for Biomedicine](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetailterm_cd=16W&subj_area_cd=PBMED%20%20&crs_catlg_no=0209%20%20%20%20&class_id=825054200&class_no=%20001%20%20)
 
 MIT: [Biomedical Signal and Image Processing](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/index.htm)
 
@@ -52,11 +51,7 @@ MIT: [Principles of Medical Imaging](https://ocw.mit.edu/courses/nuclear-enginee
 
 Purdue: [MEDICAL IMAGING DIAGNOSTIC TECHNOLOGIES](https://engineering.purdue.edu/ProEd/courses/medical-imaging-diagnostic-technologies)
 
-Tufts university: [Principles of Medical Imaging]
-
 University of Michigan Ann Arbor: [MEDICAL IMAGING SYSTEMS](https://bme.umich.edu/course/biomede-516/)
-
-University of california Irvine: [Introduction to Biomedical Imaging]
 
 University of Florida: [Introduction to Biomedical Image Analysis and Imaging Informatics](https://www.bme.ufl.edu/labs/yang/pdf/Syllabus_Yang_BME6938-Revise.pdf)
 
