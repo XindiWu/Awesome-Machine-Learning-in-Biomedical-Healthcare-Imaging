@@ -7,6 +7,8 @@
 
 [2019 AIME : Artificial Intelligence in Medicine](http://aime19.aimedicine.info/)
 
+[2019 AMIA : AMIA Symposium](https://www.amia.org/amia2019)
+
 [2020 RECOMB : International Conference on Research in Computational Molecular Biology](https://www.recomb2020.org/)
 
 [2020 PSB : Pacific Symposium on Biocomputing](https://psb.stanford.edu/)
