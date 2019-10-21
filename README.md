@@ -26,14 +26,12 @@ If you also want to contribute to this list, feel free to send me a pull request
 
 
 ## Datasets
-External Dataset Link Collection
 
 [Kaggle: Medical Image](https://www.kaggle.com/datasets?search=Medical+image)
 
 [Kaggle: Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 ## Competitions:
-External Competition Link Collection
 
 [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org/)
 
@@ -44,4 +42,8 @@ External Competition Link Collection
 [The MICCAI 2014 Machine Learning Challenge](https://competitions.codalab.org/competitions/1471)
 
 [The ISBI 2019 Challenges](https://biomedicalimaging.org/2019/challenges/)
+
+[Medical Segmentation Decathlon](http://medicaldecathlon.com/)
+
+
 
