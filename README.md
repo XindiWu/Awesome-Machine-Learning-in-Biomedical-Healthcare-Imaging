@@ -60,57 +60,35 @@ CMU: [Methods In (Bio)Medical Image Analysis](https://www.cs.cmu.edu/~galeotti/m
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Conferences
 
-[2019 MICCAI : 22nd International Conference on Medical Image Computing and Computer Assisted Intervention](https://www.miccai2019.org/)
+2019 MICCAI: [22nd International Conference on Medical Image Computing and Computer Assisted Intervention](https://www.miccai2019.org/)
 
-[2019 AIME : Artificial Intelligence in Medicine](http://aime19.aimedicine.info/)
+2019 AIME: [Artificial Intelligence in Medicine](http://aime19.aimedicine.info/)
 
-[2019 AMIA : AMIA Symposium](https://www.amia.org/amia2019)
+2019 AMIA: [AMIA Symposium](https://www.amia.org/amia2019)
 
-[2020 RECOMB : International Conference on Research in Computational Molecular Biology](https://www.recomb2020.org/)
+2020 RECOMB: [International Conference on Research in Computational Molecular Biology](https://www.recomb2020.org/)
 
-[2020 PSB : Pacific Symposium on Biocomputing](https://psb.stanford.edu/)
+2020 PSB: [Pacific Symposium on Biocomputing](https://psb.stanford.edu/)
 
-[2020 ICHI : IEEE International Conference on Healthcare Informatics](https://hs-heilbronn.de/ichi2020) 
+2020 ICHI: [IEEE International Conference on Healthcare Informatics](https://hs-heilbronn.de/ichi2020) 
 
-[2020 CMIMI : Conference on Machine Intelligence in Medical Imaging](https://siim.org/page/2019cmimi) 
+2020 CMIMI: [Conference on Machine Intelligence in Medical Imaging](https://siim.org/page/2019cmimi) 
 
-[2019 ISBI : The IEEE International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2019/)
+2019 ISBI: [The IEEE International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2019/)
 
 # Journal Collections
 
-[BMC: Artificial intelligence in biomedical imaging](https://www.biomedcentral.com/collections/ai)
+BMC: [Artificial intelligence in biomedical imaging](https://www.biomedcentral.com/collections/ai)
 
-[JAMA: Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
+JAMA: [Deep Learning and Artificial Intelligence in Health Care](https://sites.jamanetwork.com/machine-learning/)
 
-[PLOS: Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth)
+PLOS: [Machine Learning in Health and Biomedicine](https://collections.plos.org/mlforhealth)
 
-[Nature Medicine: Digital Medicine](https://www.nature.com/collections/egjifhdcih)
+Nature Medicine: [Digital Medicine](https://www.nature.com/collections/egjifhdcih)
 
-[IEEE: Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6221020)
+IEEE: [Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6221020)
 
 
 # Latest Paper List on Nature
@@ -118,9 +96,9 @@ CMU: [Methods In (Bio)Medical Image Analysis](https://www.cs.cmu.edu/~galeotti/m
 
 # Datasets
 
-[Kaggle: Medical Image](https://www.kaggle.com/datasets?search=Medical+image)
+Kaggle: [Medical Image](https://www.kaggle.com/datasets?search=Medical+image)
 
-[Kaggle: Biology Image](https://www.kaggle.com/datasets?search=biology+image)
+Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 # Competitions:
 
