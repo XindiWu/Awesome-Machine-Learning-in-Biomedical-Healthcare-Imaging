@@ -22,6 +22,5 @@ If you also want to contribute to this list, feel free to send me a pull request
 
 
 ## Datasets
-[Chest X-Ray Images (Pneumonia)] (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-
+[Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) 
 
