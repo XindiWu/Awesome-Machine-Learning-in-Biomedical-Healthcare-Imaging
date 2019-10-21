@@ -1,5 +1,8 @@
 # Awesome Machine Learning in Biomedical(Healthcare) Imaging
-> 🌈A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare 
+> 🌈A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare Imaging, inspired by `awesome-php`.
+
+If you want to contribute to this list (please do), send me a pull request or contact me [@XindiWu](mailto:wuxindi0709@gmail.com).
+
 
 ## Conferences
 
@@ -18,7 +21,7 @@
 [2020 CMIMI : Conference on Machine Intelligence in Medical Imaging](https://siim.org/page/2019cmimi) 
 
 
-## Awesome Review Paper List
+## Review Paper List
 
 
 
