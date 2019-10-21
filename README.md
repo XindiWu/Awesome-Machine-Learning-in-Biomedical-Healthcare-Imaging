@@ -1,7 +1,7 @@
 # Awesome Machine Learning in Biomedical(Healthcare) Imaging
 > 🌈A list of awesome selected resources towards the application of machine learning in Biomedical/Healthcare Imaging, inspired by `awesome-php`.
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@XindiWu](mailto:wuxindi0709@gmail.com).
+If you also want to contribute to this list, feel free to send me a pull request or contact me🙌[@XindiWu](mailto:wuxindi0709@gmail.com).
 
 
 ## Conferences
