@@ -11,4 +11,4 @@
 
 [2017 Machine Learning for Healthcare](https://www.mlforhc.org/2017)
 
-[Machine Learning for Healthcare](https://www.mlforhc.org) (submission deadline: March 29th, 2019)
+[Machine Learning for Healthcare](https://www.mlforhc.org) 
