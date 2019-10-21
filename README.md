@@ -4,12 +4,12 @@
 If you also want to contribute to this list, feel free to send me a pull request or contact me🙌[@XindiWu](mailto:wuxindi0709@gmail.com).
 
 
-## Table of Contents
+# Table of Contents
 
 
-## Courses
+# Courses
 
-# Bioimage Analysis
+## Bioimage Analysis
 
 Harvard: [Bio-Image Analysis Course](https://iccb.med.harvard.edu/bio-image-analysis-course)
 
@@ -19,7 +19,7 @@ CMU: [Bioimage Informatics](https://www.andrew.cmu.edu/course/42-731/index.html)
 
 Caltech: [Data Analysis in the Biological Sciences](http://bebi103.caltech.edu.s3-website-us-east-1.amazonaws.com/2018/)
 
-# Biomedical Image Analysis
+## Biomedical Image Analysis
 
 University of Nebraska: [Introduction to Biomedical Imaging and Image Analysis](https://www.unmc.edu/radiology/education/biomedical-imaging.html)
 
@@ -37,7 +37,7 @@ UCSD: [Introduction to biomedical imaging and sensing](http://circuit.ucsd.edu/~
 
 ILLINOIS: [Biomedical imaging](https://ece.illinois.edu/academics/courses/profile/ECE380)
 
-# Medical image analysis
+## Medical image analysis
 
 Johns Hopkins: [Applied Medical Image Processing](https://ep.jhu.edu/programs-and-courses/585.703-applied-medical-image-processing)
 
@@ -82,7 +82,7 @@ CMU: [Methods In (Bio)Medical Image Analysis](https://www.cs.cmu.edu/~galeotti/m
 
 
 
-## Conferences
+# Conferences
 
 [2019 MICCAI : 22nd International Conference on Medical Image Computing and Computer Assisted Intervention](https://www.miccai2019.org/)
 
@@ -100,7 +100,7 @@ CMU: [Methods In (Bio)Medical Image Analysis](https://www.cs.cmu.edu/~galeotti/m
 
 [2019 ISBI : The IEEE International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2019/)
 
-## Journal Collections
+# Journal Collections
 
 [BMC: Artificial intelligence in biomedical imaging](https://www.biomedcentral.com/collections/ai)
 
@@ -113,16 +113,16 @@ CMU: [Methods In (Bio)Medical Image Analysis](https://www.cs.cmu.edu/~galeotti/m
 [IEEE: Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6221020)
 
 
-## Latest Paper List on Nature
+# Latest Paper List on Nature
 
 
-## Datasets
+# Datasets
 
 [Kaggle: Medical Image](https://www.kaggle.com/datasets?search=Medical+image)
 
 [Kaggle: Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
-## Competitions:
+# Competitions:
 
 [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org/)
 
