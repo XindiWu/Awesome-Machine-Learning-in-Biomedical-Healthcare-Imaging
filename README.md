@@ -23,9 +23,7 @@ Caltech: [Data Analysis in the Biological Sciences](http://bebi103.caltech.edu.s
 
 University of Nebraska: [Introduction to Biomedical Imaging and Image Analysis](https://www.unmc.edu/radiology/education/biomedical-imaging.html)
 
-Stanford: [Computational Methods for Biomedical Image Analysis and Interpretation]()
-
-Cornell University: [Computer Analysis of Biomedical Images]
+Stanford: [Computational Methods for Biomedical Image Analysis and Interpretation](https://canvas.stanford.edu/courses/98045)
 
 Dartmouth College: [Medical Image Visualization and Analysis](https://engineering.dartmouth.edu/academics/courses/engg199-03)
 
