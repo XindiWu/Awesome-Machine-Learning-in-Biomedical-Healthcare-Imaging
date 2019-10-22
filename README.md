@@ -160,7 +160,7 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [HAPS Histology Image Database](http://hapshistology.wikifoundry.com/)
 
-
+[NIH: chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
 ## Competitions:
 
