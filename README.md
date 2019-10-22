@@ -100,6 +100,23 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
 
+### Multimodal databases
+
+[Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR)](http://www.civm.duhs.duke.edu/devatlas/)
+[user guide](http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf)
+[Collaborative Informatics and Neuroimaging Suite (COINS)](https://portal.mrn.org/micis/index.php?subsite=dx)
+[Alzheimer’s Disease Neuroimaging Initiative (ADNI)](http://adni.loni.ucla.edu/)
+[The Open Access Series of Imaging Studies (OASIS)](http://www.oasis-brains.org/)
+[Breast Cancer Digital Repository](https://bcdr.eu/)
+[DDSM: Digital Database for Screening Mammography](http://marathon.csee.usf.edu/Mammography/Database.html)
+[The Mammographic Image Analysis Society (MIAS) mini-database](http://peipa.essex.ac.uk/info/mias.html)
+[Mammography Image Databases 100 or more images of mammograms with ground truth](http://marathon.csee.usf.edu/Mammography/Database.html)
+[NLM HyperDoc Visible Human Project color, CAT and MRI image samples - over 30 images](http://www.nlm.nih.gov/research/visible/visible_human.html)
+[CT Scans for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#e88604ec5c654f60a897fa77906f88a6)
+
+
+
+
 ### Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence, etc.)
 
 [BDGP images from the FlyExpress database](www.flyexpress.net)
