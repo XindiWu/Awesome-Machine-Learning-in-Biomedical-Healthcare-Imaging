@@ -100,6 +100,24 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/)
 
+### Microscopy (Cell, Cytology, Biology, Protein, Molecular, Fluorescence, etc.)
+[BDGP images from the FlyExpress database](www.flyexpress.net)
+[The UCSB Bio-Segmentation Benchmark dataset](http://www.bioimage.ucsb.edu/research/biosegmentation)
+[Pap Smear database](http://labs.fme.aegean.gr/decision/downloads)
+[BIICBU Biological Image Repository](http://ome.grc.nia.nih.gov/iicbu2008/)
+[RNAi dataset](http://ome.grc.nia.nih.gov/iicbu2008/rnai/index.html)
+[Chinese Hamster Ovary cells (CHO) dataset](http://ome.grc.nia.nih.gov/iicbu2008/hela/index.html#cho)
+[Locate Endogenus mouse sub-cellular organelles (END) databaset](http://locate.imb.uq.edu.au/)
+[2D HeLa dataset (HeLa) datgaset](http://ome.grc.nia.nih.gov/iicbu2008/hela/index.html)
+[Allen Brain Atlas](http://www.brain-map.org/)
+[1000 Functional Connectomes Project](http://fcon_1000.projects.nitrc.org/)
+[The Cell Centered Database (CCDB)]( http://ccdb.ucsd.edu/index.shtm)
+[The Encyclopedia of DNA Elements (ENCODE)](http://genome.ucsc.edu/ENCODE/http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.1001046)
+[The Human Protein Atlas](http://www.proteinatlas.org/)
+[DRIVE: Digital Retinal Images for Vessel Extraction](http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth))
+[El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal](http://www.gastrointestinalatlas.com/Computer Vision)
+
+
 
 ## Competitions:
 
