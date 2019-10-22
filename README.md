@@ -130,7 +130,7 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [DRIVE: Digital Retinal Images for Vessel Extraction](http://www.isi.uu.nl/Research/Databases/DRIVE) / [Ground truth](http://www.cs.rug.nl/~imaging/databases/retina_database/retinalfeatures_database.html)
 
-[El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal](http://www.gastrointestinalatlas.com/Computer Vision)
+[El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal](http://www.gastrointestinalatlas.com)
 
 ### Histology and Histopathology
 
