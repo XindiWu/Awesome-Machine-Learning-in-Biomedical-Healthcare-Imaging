@@ -190,6 +190,136 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [NIH: chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 
+
+
+## Tasks:  (Link: https://paperswithcode.com/area/medical)
+
+Medical Image Segmentation
+
+EEG
+
+Electrocardiography (ECG)
+
+Drug Discovery
+
+Cancer
+
+Sleep Quality
+
+Medical Image Registration
+
+Disease Prediction
+
+Mortality Prediction
+
+Medical Image Generation
+
+Protein Secondary Structure Prediction
+
+Medical Diagnosis
+
+Length-of-stay prediction
+
+Seizure Detection
+
+Skin
+
+Histopathological Image Classification
+
+Mitosis Detection
+
+Computational Phenotyping
+
+Epidemiology
+
+Lung Disease Classification
+
+Diabetic Retinopathy Detection
+
+X-Ray
+
+Medical Relation Extraction
+
+Metal Artifact Reduction
+
+Photoplethysmography (PPG)
+
+Lung Nodule Classification
+
+Pneumonia Detection
+
+Surgical Skills Evaluation
+
+Readmission Prediction
+
+Automatic Sleep Stage Classification
+
+Eeg Decoding
+
+Skull Stripping
+
+Participant Intervention Comparison Outcome Extraction
+
+Patient Outcomes
+
+Medical Report Generation
+
+Knee Osteoarthritis Prediction
+
+Multi-Label Classification Of Biomedical Texts
+
+breast density classification
+
+Medical Super-Resolution
+
+Molecule Interpretation
+
+Mammogram
+
+Cancer Metastasis Detection
+
+Pain Intensity Regression
+
+Electromyography (EMG)
+
+Surgical Gesture Recognition
+
+Protein Function Prediction
+
+epilepsy prediction
+
+Seizure prediction
+
+White Matter Fiber Tractography
+
+Single-cell modeling
+
+Age-Related Macular Degeneration Classification
+
+Sequential Diagnosis
+
+Ecg Risk Stratification
+
+Diabetes Prediction
+
+Magnetic Resonance Fingerprinting
+
+Tomography
+
+Atrial Fibrillation
+
+Malaria Risk Exposure Prediction
+
+Muscular Movement Recognition
+
+Medical Code Prediction
+
+Motion Correction In Multishot Mri
+
+Chemical Reaction Prediction
+
+Ultrasound
+
 ## Competitions:
 
 [Grand Challenges in Biomedical Image Analysis](https://grand-challenge.org/)
