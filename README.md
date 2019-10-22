@@ -132,9 +132,7 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal](http://www.gastrointestinalatlas.com/Computer Vision)
 
-###Histology and Histopathology (H&E, IHQ, ...)
-
-[The International Society for Digital Imaging of the Skin (ISDIS)](https://isdis.net/home)
+### Histology and Histopathology (H&E, IHQ, ...)
 
 [The Histology Image Dataset (histologyDS)](http://www.informed.unal.edu.co/histologyDS)
 
