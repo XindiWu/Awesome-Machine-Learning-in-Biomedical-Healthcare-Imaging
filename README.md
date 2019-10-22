@@ -144,8 +144,6 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [MITOS dataset](http://ipal.cnrs.fr/ICPR2012/)
 
-[Cancer Image Database (caIMAGE)](http://cancerim ages.nci.nih.gov/caIMAGE/)
-
 [DPA’s Whole Slide Imaging Repository](https://digitalpathologyassociation.org/whole-slide-imaging-repository)
 
 [Atlas of bleast Histology](http://www.webmicroscope.net/atlases/breast/brcatlas_start.asp)
