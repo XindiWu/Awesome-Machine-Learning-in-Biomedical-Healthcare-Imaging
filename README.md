@@ -128,11 +128,11 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [The Human Protein Atlas](http://www.proteinatlas.org/)
 
-[DRIVE: Digital Retinal Images for Vessel Extraction](http://www.isi.uu.nl/Research/Databases/DRIVE/ (Ground truth))
+[DRIVE: Digital Retinal Images for Vessel Extraction](http://www.isi.uu.nl/Research/Databases/DRIVE/(Ground truth))
 
 [El Salvador Atlas of Gastrointestinal VideoEndoscopy Images and Videos of his-res of studies taken from Gastrointestinal](http://www.gastrointestinalatlas.com/Computer Vision)
 
-### Histology and Histopathology (H&E, IHQ, ...)
+### Histology and Histopathology
 
 [The Histology Image Dataset (histologyDS)](http://www.informed.unal.edu.co/histologyDS)
 
