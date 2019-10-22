@@ -136,9 +136,9 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 
 [The Histology Image Dataset (histologyDS)](http://www.informed.unal.edu.co/histologyDS)
 
-[The Cancer Genome Atlas (TCGA)](http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/)
+[The Cancer Genome Atlas (TCGA)](http://cancergenome.nih.gov)
 
-[International Cancer Genome Consortium](http://icgc.org, (Data portal) http://dcc.icgc.org/)
+[International Cancer Genome Consortium](http://icgc.org) / [Data portal](http://dcc.icgc.org/)
 
 [Stanford Tissue Microarray Database (TMA)](http://tma.im)
 
