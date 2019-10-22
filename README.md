@@ -135,19 +135,33 @@ Kaggle: [Biology Image](https://www.kaggle.com/datasets?search=biology+image)
 ###Histology and Histopathology (H&E, IHQ, ...)
 
 [The International Society for Digital Imaging of the Skin (ISDIS)](https://isdis.net/home)
+
 [The Histology Image Dataset (histologyDS)](http://www.informed.unal.edu.co/histologyDS)
+
 [The Cancer Genome Atlas (TCGA)](http://cancergenome.nih.gov/ https://tcga-data.nci.nih.gov/tcga/)
+
 [International Cancer Genome Consortium](http://icgc.org, (Data portal) http://dcc.icgc.org/)
+
 [Stanford Tissue Microarray Database (TMA)](http://tma.im)
+
 [MITOS dataset](http://ipal.cnrs.fr/ICPR2012/)
+
 [Cancer Image Database (caIMAGE)](http://cancerim ages.nci.nih.gov/caIMAGE/)
+
 [DPA’s Whole Slide Imaging Repository](https://digitalpathologyassociation.org/whole-slide-imaging-repository)
+
 [Atlas of bleast Histology](http://www.webmicroscope.net/atlases/breast/brcatlas_start.asp)
+
 [ITK Analysis of Large Histology Datasets](http://www.na-mic.org/Wiki/index.php/ITK_Analysis_of_Large_Histology_Datasets)
+
 [Histology Photo Album](http://www.histology-world.com/photoalbum/thumbnails.php?album=52)
+
 [Slide Library of Virtual pathology, University of Leeds](http://www.virtualpathology.leeds.ac.uk/)
+
 [Tissue Acquisition and Banking Services (TABS) of the NYU Experimental Pathology Core Facilities](http://pathology.med.nyu.edu/research/core-laboratories/tissue-banking)
+
 [Aperio Images](http://images2.aperio.com/)
+
 [HAPS Histology Image Database](http://hapshistology.wikifoundry.com/)
 
 
